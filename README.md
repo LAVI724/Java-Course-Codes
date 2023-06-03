@@ -5,7 +5,7 @@
 - 大二上程式設計(三) Java 的課程練習、作業、小考與考古等程式
 
 ### Chapter Practice
-- ch1 ~ 6
+- ch1\~6
 - ch7 Single-Dimensional Array
 - ch8 Multidimensional Arrays
 - ch9 Objects and Classes
