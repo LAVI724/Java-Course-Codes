@@ -3,15 +3,9 @@
 
 ## Information
 - 大二上程式設計(三) Java 的課程練習、作業、小考與考古等程式
-- 另有撰寫 Java 常用 method 語法的 Note
 
 ### Chapter Practice
-- ch1
-- ch2
-- ch3
-- ch4
-- ch5
-- ch6
+- ch1 ~ 6
 - ch7 Single-Dimensional Array
 - ch8 Multidimensional Arrays
 - ch9 Objects and Classes
@@ -42,6 +36,9 @@
 - 0x2 Area of Convex Polygon
 - 0x3 Exception Handling
 - 0x4 Generic Methods for Min() and Max()
+
+### Note
+- Java 常用 method 語法筆記
 
 ### OldExam
 1. Palindromic Prime
