@@ -41,13 +41,13 @@
 - Java 常用 method 語法筆記
 
 ### OldExam
-1. Palindromic Prime
-2. You can say 11
-3. The BigInteger GCD, LCM and Prime
-4. Latin Square
+- PA Palindromic Prime
+- PB You can say 11
+- PC The BigInteger GCD, LCM and Prime
+- PD Latin Square
 
 ### Practice
-1. Star pyramid
-2. Nine-Nine Multiplication Table
-3. Prime number
-4. 11 factor
+- 0x1 Star pyramid
+- 0x2 Nine-Nine Multiplication Table
+- 0x3 Prime number
+- 0x4 11 factor
