@@ -23,18 +23,18 @@
 
 ### Exam
 - 0x1
-	3. BigDecimal Calculator 
-	4. Magic Square 
-	5. Prime Factorization 
+	- P3 BigDecimal Calculator 
+	- P4 Magic Square 
+	- P5 Prime Factorization 
 - 0x2 
-	2. Triangle
-	3. StringBuffer or StringBuilder
-	5. Rational Number
+	- P2 Triangle
+	- P3 StringBuffer or StringBuilder
+	- P5 Rational Number
 - 0x3
-	1. Collection Sort
-	2. Calculation
-	3. Point implements Comparable
-	5. Bin Packing Using First Fit
+	- P1 Collection Sort
+	- P2 Calculation
+	- P3 Point implements Comparable
+	- P5 Bin Packing Using First Fit
 
 ### Homework
 - 0x0 Print Prime Numbers
